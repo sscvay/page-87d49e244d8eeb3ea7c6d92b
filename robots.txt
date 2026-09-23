@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://norwgc.cn/sitemap.xml
